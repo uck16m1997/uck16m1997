@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uck16m1997&show_icons=true&theme=radical&include_all_commits=true&hide=issues,contribs&custom_title=Umut CK's+Github+History)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uck16m1997&show_icons=true&theme=radical&include_all_commits=true&hide=issues,contribs&custom_title=Umut+CK's+Github+History)
